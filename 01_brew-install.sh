@@ -10,8 +10,7 @@ brew install nvm
 brew install pyenv
 brew install yarn
 brew install sl
-brew cask install dotnet
-brew cask install showyedge
+brew cask install dotnet-sdk
 brew cask install visual-studio-code
 brew cask install azure-data-studio
 brew cask install postman
