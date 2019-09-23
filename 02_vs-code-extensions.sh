@@ -16,7 +16,6 @@ code --install-extension Keno.uikit-3-snippets
 code --install-extension ms-azuretools.vscode-azureappservice
 code --install-extension ms-edgedevtools.vscode-edge-devtools
 code --install-extension ms-mssql.mssql
-code --install-extension ms-mssql.sqlops-debug
 code --install-extension ms-python.python
 code --install-extension ms-vscode.azure-account
 code --install-extension ms-vscode.cpptools
